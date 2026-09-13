@@ -1,4 +1,9 @@
 # AI-Engineering
+[AutoML-Web-Platform](https://github.com/HasanovChE/AutoML-Web-Platform)
+
+[Motifs_Clustering_Project](https://github.com/HasanovChE/Motifs_Clustering_Project)
+
+[Fine-Tuning-OpenAI-Whisper-model](https://github.com/HasanovChE/Fine-Tuning-OpenAI-Whisper-model)
 
 ## **Workflow Automation and Webhooks**
 
