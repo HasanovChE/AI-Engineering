@@ -28,3 +28,8 @@
 
 
 ## **n8n Automation & Telegram Bots**
+[FAQ-Bot-Backed-by-a-Knowledge-Base-Spreadsheet---n8n](https://github.com/HasanovChE/FAQ-Bot-Backed-by-a-Knowledge-Base-Spreadsheet---n8n)
+
+[Customer-Support-Ticket-Bot-with-n8n-and-Telegram](https://github.com/HasanovChE/Customer-Support-Ticket-Bot-with-n8n-and-Telegram)
+
+[Daily-Personal-Digest-Bot---n8n](https://github.com/HasanovChE/Daily-Personal-Digest-Bot---n8n)
